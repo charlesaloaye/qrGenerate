@@ -1,0 +1,17 @@
+{
+  "name": "qrGenerate",
+  "version": "1.0.0",
+  "description": "Simple tool to generate qr code for any url: using inquirer and qr-image and fs module",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.0.1",
+    "qr-image": "^3.2.0"
+  }
+}
