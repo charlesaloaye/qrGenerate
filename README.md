@@ -4,7 +4,7 @@ Simple tool to generate qr code for any url: using  and qr-image and fs module.
 
 ## Installation
 
-1. Clone the repository: `git clone [https://github.com/charlesaloaye/next-auth-pages.git](https://github.com/charlesaloaye/qrGenerate.git)`
+1. Clone the repository: `git clone [https://github.com/charlesaloaye/qrGenerate.git]`
 2. Navigate to the project directory: `cd qrGenerate`
 3. Install the dependencies: `npm i or pnpm i (if it pnpm exist on your machine)`
 
