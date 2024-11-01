@@ -1,21 +1,20 @@
 # qrGenerate
 
-Simple tool to generate qr code for any url: using  and qr-image and fs module.
+Simple tool to generate qr code for any url:.
 
 ## Installation
 
 1. Clone the repository: `git clone [https://github.com/charlesaloaye/qrGenerate.git]`
 2. Navigate to the project directory: `cd qrGenerate`
-3. Install the dependencies: `npm i or pnpm i (if it pnpm exist on your machine)`
+3. Install the dependencies: `npm i to install all dependecies`
 
 ## Usage
 
-1. Install the dependecies: `npm i to install all dependecies`
-2. open your terminal: `node app.js`.
-3. Enter thee url
-4. Enter the file name
-5. Enter the file format you wish to generate
-6. check the generated_qr folder or create one if none exist.
+1. open your terminal: `node app.js`.
+2. Enter the url
+3. Enter the file name
+4. Enter the file format you wish to generate
+5. check the generated_qr folder or create one if none exist.
 
 ## Dependencies
 
