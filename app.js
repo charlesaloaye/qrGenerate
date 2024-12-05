@@ -5,7 +5,7 @@ import fs from "fs";
 inquirer
     .prompt([
         {
-            message: "Enter a valid Url e.g https://charlestechy.com\n",
+            message: "Enter a valid Url e.g https://charlestechy.co\n",
             name: "URL",
         },
         {
