@@ -34,17 +34,20 @@ inquirer
 
                     console.log(`Qr code generated successfully for ${url}`);
 
-                } else {
+                } 
+                else {
 
                     console.log(`Please your url must have either https or http.`);
                 }
 
-            } else {
+            } 
+            else {
                 console.log(`Please pick a format from the list.`);
 
             }
 
-        } else {
+        } 
+        else {
             console.log(`Please remove dot(.) sign from format.`);
 
         }
